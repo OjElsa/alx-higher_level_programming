@@ -2,14 +2,14 @@
 
 """Square module
 
-    A module containing a class called Square representing a square shape.
+    Module containing a class called Square representing a square shape.
 """
 
 
 class Square:
     """A square class
 
-        A class that defines a square by size.
+        A class that defines a square by its size.
 
         Attributes:
             __size (int): size of the square.
@@ -20,7 +20,7 @@ class Square:
     __position = (0, 0)
 
     def __init__(self, size=0, position=(0, 0)):
-        """Initialize class with size variable
+        """Initialize class with the size of variable
 
         Args:
             size (int): size of the square
