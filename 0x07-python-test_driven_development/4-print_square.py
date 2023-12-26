@@ -2,6 +2,7 @@
 
 """Square shape module with character # . """
 
+
 def print_square(size):
     """Prints a square using '#'
 
